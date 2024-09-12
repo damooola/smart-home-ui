@@ -35,6 +35,7 @@ The `HomeAppliance` class is a model representing a smart home device. It contai
 - `imageAsset`: An emoji representing the device
 - `name`: The name of the device
 - `isOnOrOff`: A boolean indicating whether the device is on or off
+- `killSwitch`: A switch to turn off all appliances at once. (named it AZ-5 button because you know...)
 
 ## Usage
 
